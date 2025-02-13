@@ -228,7 +228,7 @@
         "punctuation.definition.from-file.diff"
       ],
       "settings": {
-        "foreground": "#1085ff"
+        "foreground": "#E06C75"
       }
     },
     {
@@ -319,7 +319,7 @@
     {
       "scope": ["storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#1085ff"
+        "foreground": "#E06C75"
       }
     },
     {
