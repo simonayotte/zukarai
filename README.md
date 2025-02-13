@@ -3,6 +3,8 @@
 A clean, modern VS Code theme designed for optimal readability and reduced eye strain.
 Inspired by Plastic, One Dark and Monokai.
 
+![JavaScript](screenshots/screenshot.png)
+
 ## Features
 
 - Carefully selected color palette for syntax highlighting
