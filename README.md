@@ -19,10 +19,6 @@ Inspired by Plastic, One Dark and Monokai.
 3. Search for "Zukarai"
 4. Click Install
 
-## Screenshots
-
-[Add screenshots of your theme here showing different languages/scenarios]
-
 ## Customization
 
 You can override theme colors in your `settings.json`:
