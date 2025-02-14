@@ -2,7 +2,7 @@
   "name": "zukarai",
   "displayName": "Zukarai Theme",
   "description": "A minimalist color theme inspired by Plastic, One Dark and Monokai",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "simonayotte",
   "engines": {
     "vscode": "^1.12.0"
