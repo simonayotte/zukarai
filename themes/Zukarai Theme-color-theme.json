@@ -92,7 +92,7 @@
     "editorWhitespace.foreground": "#a9b2c31a",
     "editorWidget.background": "#161b21",
     "errorForeground": "#d74e42",
-    "focusBorder": "#1085ff",
+    "focusBorder": "#2a2f35",
     "gitDecoration.deletedResourceForeground": "#1085ff",
     "gitDecoration.ignoredResourceForeground": "#5f6672",
     "gitDecoration.modifiedResourceForeground": "#d19a66",
@@ -112,6 +112,7 @@
     "list.errorForeground": "#d74e42",
     "list.focusBackground": "#a9b2c333",
     "list.hoverBackground": "#a9b2c31a",
+    "list.focusOutline": "#00000000",
     "list.inactiveFocusOutline": "#5f6672",
     "list.inactiveSelectionBackground": "#a9b2c333",
     "list.inactiveSelectionForeground": "#c6ccd7",
@@ -138,7 +139,7 @@
     "peekViewResult.selectionBackground": "#a9b2c31a",
     "peekViewResult.selectionForeground": "#c6ccd7",
     "peekViewTitle.background": "#161b21",
-    "quickInput.background": "#1a2229",
+    "quickInput.background": "#161B21",
     "sash.hoverBorder": "#a9b2c333",
     "scrollbar.shadow": "#00000000",
     "scrollbarSlider.activeBackground": "#a9b2c333",
@@ -148,7 +149,7 @@
     "sideBar.border": "#2a2f35",
     "sideBar.foreground": "#c6ccd7",
     "sideBarSectionHeader.background": "#21252b",
-    "statusBar.background": "#21252b",
+    "statusBar.background": "#161b21",
     "statusBar.border": "#2a2f35",
     "statusBar.debuggingBackground": "#21252b",
     "statusBar.debuggingBorder": "#56b6c2",
@@ -197,7 +198,7 @@
     "titleBar.inactiveBackground": "#1a2229",
     "titleBar.inactiveForeground": "#5f6672",
     "toolbar.hoverBackground": "#a9b2c333",
-    "widget.shadow": "#00000000"
+    "widget.shadow": "#00000066"
   },
   "tokenColors": [
     {
